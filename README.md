@@ -1,3 +1,5 @@
+> **Moved.** This SDK now lives in [innovafour/iforevents-sdks](https://github.com/innovafour/iforevents-sdks/tree/main/swift). This repository is archived.
+
 # IForevents SDK for Swift
 
 The IForevents analytics SDK for iOS, macOS, tvOS and watchOS. One facade,
